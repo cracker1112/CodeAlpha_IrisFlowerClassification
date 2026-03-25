@@ -99,7 +99,7 @@ python iris_classification.py
 
 ## 🙋 Author
 
-**Your Name**
+**Sumit jadhav**
 - LinkedIn: [your-linkedin](https://linkedin.com)
 - GitHub: [your-github](https://github.com)
 
